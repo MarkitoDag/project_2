@@ -1,5 +1,4 @@
-# percom23-elaborato-MarkitoDag
-percom23-elaborato-MarkitoDag created by GitHub Classroom
+# MarkitoDag
 
 # LoL Master
 ![MacWallpaper](https://github.com/unisannio-pervasive-computing-2023/percom23-elaborato-MarkitoDag/assets/43877621/af743f66-096e-461b-be71-49e520b8fe98)
